@@ -19,7 +19,7 @@
 - [❄️ 고정 컬럼](./frozen-columns.md)
 - [🖖 로우 스팬](./row-span.md)
 - [✔️ Validation](./validation.md)
-- [📐 넓이, 높이 설정](./setting-width-height.md)
+- [📐 너비, 높이 설정](./setting-width-height.md)
 - [🗂 정렬](./sort.md)
 - [📖 페이지네이션](./pagination.md)
 - [🔍 필터](./filter.md)
